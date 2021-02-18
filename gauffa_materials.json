@@ -1,0 +1,23 @@
+[
+    {
+       "type" : "material",
+	   "ident" : "g_alloy",
+	   "name" : "Nanoprene",
+	   "bash_resist" : 900,
+	   "cut_resist" : 900,
+           "chip_resist" : 900,
+	   "bash_dmg_verb" : "dented",
+	   "cut_dmg_verb" : "scratched",
+	   "dmg_adj" : [
+	    "lightly_damaged",
+	    "damaged",
+	    "very damaged",
+	    "thoroughly damaged"
+        ],
+        "acid_resist" : 900,
+        "elec_resist" : 900,
+        "fire_resist" : 900,
+        "density" : 4
+    }
+
+]

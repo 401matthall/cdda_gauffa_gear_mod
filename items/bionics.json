@@ -1,0 +1,12 @@
+[
+	{
+		"id": "bio_gauffareactor",
+		"copy-from": "bionic_general",
+		"type": "BIONIC_ITEM",
+		"name": { "str": "Micro Fusion Reactor CBM" },
+		"description": "This device makes power. Lots of it.",
+		"price": 5,
+		"weight": "5 g",
+		"difficulty": 1
+	}
+]

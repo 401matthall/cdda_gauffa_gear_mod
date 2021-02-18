@@ -1,0 +1,17 @@
+[
+	{
+            "type": "profession",
+            "ident": "bionic_gauffa",
+            "name": "Bio-Gauffa",
+            "description": "You knew the end was coming. You augmented yourself with some basic bionics and got additional survival training. Now the end has come, and it is time to see if your efforts have paid off].",
+            "points": -999,
+            "items": {
+                "both": {
+                    "items": [ "flashlight", "pockknife", "rope_30", "canteen", "g_armor" ],
+                    "bionics": [ "bio_tools", "bio_ups", "bio_fingerhack", "bio_sunglasses", "bio_lockpick", "bio_torsionratchet" ]
+                }
+            },
+            "cbms": [ "bio_gauffareactor" ]
+        }
+]
+

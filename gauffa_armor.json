@@ -1,0 +1,32 @@
+[
+    {
+        "type" : "ARMOR",
+        "id" : "g_armor",
+		"category" : "armor",
+        "name" : "nanomolecular power suit",
+        "description" : "The nanomolecular power suit is pretty much awesome.",
+        "weight" : 3628,
+        "environmental_protection" : 900,
+        "color" : "dark_gray",
+        "symbol" : "[",
+        "material" : ["g_alloy"],
+        "covers" : ["HEAD", "EYES", "MOUTH", "TORSO", "ARMS", "HANDS", "LEGS", "FEET"],
+        "price" : 7000000,
+        "cutting" : 900,
+        "phase" : "solid",
+        "volume" : 1,
+        "to_hit" : -900,
+        "storage" : 200,
+        "encumbrance" : 0,
+        "bashing" : 900,
+        "flags" : ["VARSIZE", "STURDY", "POWERARMOR_COMPATIBLE", "PSYSHIELD_PARTIAL",
+            "WATCH", "ALARMCLOCK", "SWIM_GOGGLES", "SUN_GLASSES",
+            "RAD_PROOF", "ELECTRIC_IMMUNE", "SKINTIGHT", "PARTIAL_DEAF", "WATER_FRIENDLY", "WATERPROOF", "RAINPROOF",
+            "SLOWS_THIRST", "CLIMATE_CONTROL", "BAROMETER", "HYGROMETER", "THERMOMETER", "COLLAR", "BELTED", "ALLOWS_NATURAL_ATTACKS",
+            "ACTIVE_CLOAKING", "BULLET_IMMUNE", "POCKETS", "SEMITANGIBLE", "WAIST", "HOOD"
+
+        ],
+        "coverage" : 100,
+        "material_thickness" : 900
+    }
+]

@@ -1,0 +1,10 @@
+[
+	{
+		"id": "bio_gauffareactor",
+		"type": "bionic",
+		"name": { "str": "Micro Fusion Reactor CBM" },
+		"description": "This device makes power. Lots of it.",
+		"capacity": "50000 J",
+		"flags": [ "BIONIC_POWER_SOURCE", "BIONIC_TOGGLED" ]
+	}
+]
